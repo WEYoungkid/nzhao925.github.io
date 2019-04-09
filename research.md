@@ -99,8 +99,12 @@ Notes-Monograph Series, Vol 33, pp 114-142
   
 - Private Experimentation and Persuasion <br/> 
   with <a href="http://www.fuwentao.com" target="_blank"> Wentao Fu</a> and <a> Meng Sun</a><br/>
+  <code>manuscript | slides</code> <br/>
+  
+- The Role of Lead Investors in Fundraising Performance of Equity Crowdfunding: Evidence from China <br/> 
+  with <a href="http://gs.swufe.edu.cn/home/school/teacher/info?programaid=29&tid=384" target="_blank"> Tao Shen</a> and <a> Fan Fan </a><br/>
   <code>manuscript | slides</code> <br/><br/>
-
+  
 ---
 <!-- - Does the college admission policy improve high school education in China's poor counties?<br/> 
   (with Yongzhi Sun and Song Zhou)<br/><br/> 
