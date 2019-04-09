@@ -21,7 +21,7 @@ description: microeconomics, econometrics, labor economics.
 <code>syllabus</code><br/>
 
 - Data Scientist with R (MS), Spring 2019. <br/>
-<code>syllabus</code><br/>
+<code>syllabus</code><br/><br/>
 
 ---
 #### <a name="instructor"></a> Texas A&M University
