@@ -1,7 +1,7 @@
 ---
 layout: page
 title: research
-<!--  tagline: microeconometrics, labor economics, empirical IO, applied microeconomics. -->
+tagline:
 description: research fields are microeconometrics, labor economics, empirical IO, applied microeconomics.
 ---
 <!--
