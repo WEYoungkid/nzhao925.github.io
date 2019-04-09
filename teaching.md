@@ -1,8 +1,8 @@
 ---
 layout: page
 title: teaching 
-<!-- tagline: microeconomics, econometrics, labor economics. -->
-description: teaching interests are microeconomics, econometrics, labor economics
+tagline: microeconomics, econometrics, labor economics.
+description: microeconomics, econometrics, labor economics.
 ---
 <!--
 <div class="navbar">
