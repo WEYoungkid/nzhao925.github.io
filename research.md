@@ -133,9 +133,9 @@ ORNL/TM-12167, Oak Ridge National Laboratory
 
 #### <a name="wip"></a>work in progress
 
-- Parent-Child Interactions: Expectation and Reality - A Structual Model and Estimation.<br/> 
+- Parent-Child Interactions: Expectation and Reality - A Structural Model and Estimation.<br/> 
 
-- The Human Capital Formation of Left-Behind Children in China: A Structual Model and Estimation.<br/>
+- The Human Capital Formation of Left-Behind Children in China: A Structural Model and Estimation.<br/>
 
 <!-- Nonparametric identification and testing of bequest motives in the US.<br/>
   (with Kang Wang)<br/>
