@@ -1,7 +1,7 @@
 ---
 layout: page
 title: teaching 
-tagline: microeconomics, econometrics, labor economics.
+tagline: 
 description: microeconomics, econometrics, labor economics.
 ---
 <!--
