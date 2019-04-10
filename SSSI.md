@@ -17,16 +17,8 @@ description: HCEO-RIME SSSI Chengdu
            <p> To date, SSSI has been held in the U.S. (Chicago, 2012, 2013, 2015, 2016, 2017, 2018), UK (Cambridge, 2014), Russia (Moscow, 2017), Germany (Bonn, 2016, 2018), China (Beijing, 2013, 2014, 2015, and Guangzhou, 2016, 2017). </p> 
            <p> In 2019, besides its traditional session in Chicago, US, SSSI will be held in Bergen, Norway and in Chengdu, China.</p>
            <br/><h4><a name="contact"></a>contact</h4>
-           <div id="hide_email">
-           <code>nzhao[at]swufe.edu.cn</code><br/>
-           </div>
-           <p> 220 RIEM Building, Guanghua Campus <br/>
-               Southwestern University of Finance and Economics <br/>
-               Chengdu, China</p>
-           </div>
            </div>
       </div>
-    </div>
        <!-- <p> Currently, I am a visiting PhD student and a scholar-in-residence at <a href="http://cehd.uchicago.edu" target="_blank"> the Center for the Economics of Human Development</a>, <a href="http://www.uchicago.edu" target="_blank"> the University of Chicago</a>.</p><br/> -->
 <!--            <p> My office at Texas A&M is room 3004 in Allen Building on the west campus. I can be contacted at <code>nzhao[at]tamu.edu</code> or <code>(979) 229-3075</code>.</p> -->
 
