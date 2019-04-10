@@ -26,7 +26,7 @@ description: HCEO-RIME SSSI Chengdu
            <p> During these intense programs, students attend lectures, engage in discussions with leading faculty from around the world, present their own research, and interact with peers from institutions across the globe. </p>
            <p> To date, SSSI has been held in the U.S. (Chicago, 2012, 2013, 2015, 2016, 2017, 2018), UK (Cambridge, 2014), Russia (Moscow, 2017), Germany (Bonn, 2016, 2018), China (Beijing, 2013, 2014, 2015, and Guangzhou, 2016, 2017). <br/></p>
            <h4> More information </h4>
-           <p>Please visit HCEO's offcial website <a href="https://hceconomics.uchicago.edu/events/summer-school-socioeconomic-inequality-chengdu-sssi-2019-chengdu" target="_blank"> SSSI 2019 Chengdu</a></p>
+           <p>Please visit HCEO's offcial website <a href="https://hceconomics.uchicago.edu/events/summer-school-socioeconomic-inequality-chengdu-sssi-2019-chengdu" target="_blank"> Summer School on Socioeconomic Inequality, Chengdu (SSSI 2019 Chengdu)</a>.</p>
            </div>
         
        <!-- <p> Currently, I am a visiting PhD student and a scholar-in-residence at <a href="http://cehd.uchicago.edu" target="_blank"> the Center for the Economics of Human Development</a>, <a href="http://www.uchicago.edu" target="_blank"> the University of Chicago</a>.</p><br/> -->
