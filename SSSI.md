@@ -6,11 +6,6 @@ description: HCEO-RIME SSSI Chengdu
 <div class="container-narrow">
     <div class="row-fluid">
         <div class="span6">
-            <br/><img style="float: right;" src="../assets/pics/SSSI_2019.jpeg">
-        </div>
-        <div class="span1">
-        </div>
-        <div class="span6">
             <p>The Human Capital and Economic Opportunity Global Working Group (HCEO) at the University of Chicago and the Research Insititue of Economics and Management (RIWM) at Southwestern Unviersity of Finance and Economics (SWUFE) will co-host the HCEO's famous Summer School on Socioeconomic Inequality (SSSI) in Chengdu, China, July 15-19, 2019.</p>    
            <p> HCEO-RIEM SSSI Chengdu will provide a state-of-the-art overview on the study of inequality and human flourishing. Participants will learn about the integration between psychological and sociological insights into the foundations of human behavior and conventional economic models. Through rigorous lectures students will be trained on various tools needed to study the issue of inequality. </p>
            <p> During these intense programs, students attend lectures, engage in discussions with leading faculty from around the world, present their own research, and interact with peers from institutions across the globe. </p>
@@ -18,6 +13,12 @@ description: HCEO-RIME SSSI Chengdu
            <br/><h4><a name="contact"></a>contact</h4>
            </div>
       </div>
+        <div class="span6">
+            <br/><img style="float: right;" src="../assets/pics/SSSI_2019.jpeg">
+        </div>
+        <div class="span1">
+        </div>
+        
        <!-- <p> Currently, I am a visiting PhD student and a scholar-in-residence at <a href="http://cehd.uchicago.edu" target="_blank"> the Center for the Economics of Human Development</a>, <a href="http://www.uchicago.edu" target="_blank"> the University of Chicago</a>.</p><br/> -->
 <!--            <p> My office at Texas A&M is room 3004 in Allen Building on the west campus. I can be contacted at <code>nzhao[at]tamu.edu</code> or <code>(979) 229-3075</code>.</p> -->
 
