@@ -30,8 +30,7 @@ description: HCEO-RIME SSSI Chengdu
         </div>
    </div>
 </div>
-       <!-- <p> Currently, I am a visiting PhD student and a scholar-in-residence at <a href="http://cehd.uchicago.edu" target="_blank"> the Center for the Economics of Human Development</a>, <a href="http://www.uchicago.edu" target="_blank"> the University of Chicago</a>.</p><br/> -->
-<!--            <p> My office at Texas A&M is room 3004 in Allen Building on the west campus. I can be contacted at <code>nzhao[at]tamu.edu</code> or <code>(979) 229-3075</code>.</p> -->
+
 
 <!--        <div class="span2">
 <!--        <br/><br/>
