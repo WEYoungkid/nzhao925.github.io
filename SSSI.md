@@ -13,10 +13,10 @@ description: HCEO-RIME SSSI Chengdu
            <br/><h4><a name="contact"></a>contact</h4>
            </div>
       </div>
-        <div class="span6">
-            <br/><img style="float: right;" src="../assets/pics/SSSI_2019.jpeg">
+           <div class="span1">
         </div>
-        <div class="span1">
+        <div class="span5">
+            <br/><img style="float: right;" src="../assets/pics/SSSI_2019.jpeg">
         </div>
         
        <!-- <p> Currently, I am a visiting PhD student and a scholar-in-residence at <a href="http://cehd.uchicago.edu" target="_blank"> the Center for the Economics of Human Development</a>, <a href="http://www.uchicago.edu" target="_blank"> the University of Chicago</a>.</p><br/> -->
