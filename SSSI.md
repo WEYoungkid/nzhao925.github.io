@@ -1,5 +1,6 @@
 ---
-layout: frontpage
+layout: page
+title: HCEO-RIEM SSSI Chengdu
 description: HCEO-RIME SSSI Chengdu
 ---
 <div class="container-narrow">
