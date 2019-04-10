@@ -8,7 +8,7 @@ description: HCEO-RIME SSSI Chengdu
         <div class="span5">
             <br/><img style="float: right;" src="../assets/pics/SSSI_2019.jpeg"><br/><br/>
             <br/><h4><a name="Invited Speakers"></a>Invited Speakers</h4><br/>
-            <p> Lawrence Blume, Cornell University/IHS Vienna <p/>
+            <p> Lawrence Blume, Cornell University/IHS Vienna </p>
         </div>
          <div class="span1">
         </div>
