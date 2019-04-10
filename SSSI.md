@@ -9,6 +9,13 @@ description: HCEO-RIME SSSI Chengdu
             <br/><img style="float: right;" src="../assets/pics/SSSI_2019.jpeg"><br/><br/>
             <br/><br/><p><b>Invited Speakers</b></p><br/>
             <p><b>Lawrence Blume</b>, Cornell University / IHS Vienna</p>
+            <p><b>Flavio Cunha</b>, Rice University</p>
+            <p><b>Steven Durlauf</b>, University of Chicago </p>
+            <p><b>Chao Fu</b>, University of Wisconsin, Madison</p>
+            <p><b>Fali Huang</b>, Singapore Management University</p>
+            <p><b>Yi Lu</b>, Tsinghua University </p>
+            <p><b>Mark Rosenzweig</b>, Yale University </p>
+            <p><b>Junsen Zhang</b>, Chinese University of Hong Kong</p>
         </div>
          <div class="span1">
         </div>
