@@ -7,7 +7,7 @@ description: HCEO-RIME SSSI Chengdu
     <div class="row-fluid">
         <div class="span5">
             <br/><img style="float: right;" src="../assets/pics/SSSI_2019.jpeg">
-            <br/><h4><a name="Invited Speakers"></a>contact</h4>
+            <br/><h4><a name="Invited Speakers"></a>Invited Speakers</h4>
         </div>
          <div class="span1">
         </div>
