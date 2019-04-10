@@ -7,8 +7,8 @@ description: HCEO-RIME SSSI Chengdu
     <div class="row-fluid">
         <div class="span5">
             <br/><img style="float: right;" src="../assets/pics/SSSI_2019.jpeg"><br/><br/>
-            <h4>Invited Speakers</h4><br/>
-            <p><b>Lawrence Blume</b>, Goldwin Smith Professor of Economics / Visiting Research Professor, Cornell University / IHS Vienna</p>
+            <br/><br/><p><b>Invited Speakers</b></p><br/>
+            <p><b>Lawrence Blume</b>, Cornell University / IHS Vienna</p>
         </div>
          <div class="span1">
         </div>
