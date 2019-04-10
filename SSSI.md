@@ -5,17 +5,17 @@ description: HCEO-RIME SSSI Chengdu
 ---
 <div class="container-narrow">
     <div class="row-fluid">
-        <div class="span12">
+        <div class="span6">
             <br/><img style="float: right;" src="../assets/pics/SSSI_2019.jpeg">
         </div>
         <div class="span1">
         </div>
         <div class="span6">
-            <p><a href="https://hceconomics.uchicago.edu/" target="_blank">The Human Capital and Economic Opportunity Global Working Group (HCEO) <a/> at <a href="https://www.uchicago.edu/" target="_blank"> the University of Chicago<a/> and <a href="https://riem.swufe.edu.cn/" target="_blank"> the Research Insititue of Economics and Management (RIWM)<a/> at <a href="https://www.swufe.edu.cn/" target="_blank"> Southwestern Unviersity of Finance and Economics (SWUFE)<a/> will co-host the HCEO's famous Summer School on Socioeconomic Inequality (SSSI) in Chengdu, China, July 15-19, 2019. <p/>    
+            <p><a href="https://hceconomics.uchicago.edu/" target="_blank">The Human Capital and Economic Opportunity Global Working Group (HCEO) <a/> at <a href="https://www.uchicago.edu/" target="_blank"> the University of Chicago<a/> and <a href="https://riem.swufe.edu.cn/" target="_blank"> the Research Insititue of Economics and Management (RIWM)<a/> at <a href="https://www.swufe.edu.cn/" target="_blank"> Southwestern Unviersity of Finance and Economics (SWUFE)<a/> will co-host the HCEO's famous Summer School on Socioeconomic Inequality (SSSI) in Chengdu, China, July 15-19, 2019. </p>    
            <p> HCEO-RIEM SSSI Chengdu will provide a state-of-the-art overview on the study of inequality and human flourishing. Participants will learn about the integration between psychological and sociological insights into the foundations of human behavior and conventional economic models. Through rigorous lectures students will be trained on various tools needed to study the issue of inequality. <p/>
-           <p> During these intense programs, students attend lectures, engage in discussions with leading faculty from around the world, present their own research, and interact with peers from institutions across the globe. <p/>
-           <p> To date, SSSI has been held in the U.S. (Chicago, 2012, 2013, 2015, 2016, 2017, 2018), UK (Cambridge, 2014), Russia (Moscow, 2017), Germany (Bonn, 2016, 2018), China (Beijing, 2013, 2014, 2015, and Guangzhou, 2016, 2017). <p/> 
-           <p> In 2019, besides its traditional session in Chicago, US, SSSI will be held in Bergen, Norway and in Chengdu, China.<p/>
+           <p> During these intense programs, students attend lectures, engage in discussions with leading faculty from around the world, present their own research, and interact with peers from institutions across the globe. </p>
+           <p> To date, SSSI has been held in the U.S. (Chicago, 2012, 2013, 2015, 2016, 2017, 2018), UK (Cambridge, 2014), Russia (Moscow, 2017), Germany (Bonn, 2016, 2018), China (Beijing, 2013, 2014, 2015, and Guangzhou, 2016, 2017). </p> 
+           <p> In 2019, besides its traditional session in Chicago, US, SSSI will be held in Bergen, Norway and in Chengdu, China.</p>
            <br/><h4><a name="contact"></a>contact</h4>
            <div id="hide_email">
            <code>nzhao[at]swufe.edu.cn</code><br/>
