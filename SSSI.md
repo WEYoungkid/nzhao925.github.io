@@ -5,8 +5,8 @@ description: HCEO-RIME SSSI Chengdu
 ---
 <div class="container-narrow">
     <div class="row-fluid">
-        <div class="span5">
-            <br/><img style="float: left;" src="../assets/pics/SSSI_2019.jpeg"><br/><br/>
+        <div class="span5"><br/>
+            <br/><img style="float: left;" src="../assets/pics/SSSI_2019.jpeg"><br/><br/><br/>
             <br/><br/><br/><h4><b>Invited Speakers</b></h4><br/>
             <p><b>Lawrence Blume</b>, Cornell University / IHS Vienna</p>
             <p><b>Flavio Cunha</b>, Rice University</p>
