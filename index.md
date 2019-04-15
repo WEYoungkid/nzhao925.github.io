@@ -15,10 +15,8 @@ description: Associate Professor of Economics at Research Institute of Economics
             <p> My research field is applied microeconomics, including labor, education, and urban economics.</p> 
            <br/><h4><a name="contact"></a>contact</h4>
            <div id="hide_email">
-           <code>yongzhisun[at]swufe.edu.cn</code><br/>
+           <b>Email:<b/><code>yongzhisun[at]swufe.edu.cn</code><br/>
            </div>
-           <p> 226 RIEM Building, Guanghua Campus <br/>
-               Southwestern University of Finance and Economics <br/>
-               Chengdu, China</p>
+           <p><b>Email:<b/> 226 RIEM Building, Guanghua Campus, Southwestern University of Finance and Economics, Chengdu, China<br/></p>
         </div>
 </div>
