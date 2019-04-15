@@ -80,11 +80,11 @@ Notes-Monograph Series, Vol 33, pp 114-142
 #### in English
 
 - Oil Change Fueling Housing and Land Prices? <br/>  
-  with <a>Valerie Grossman, <a>Enrique Martinez-Garcia, and <a>Luis B. Torres.</a><br/>
+  with <a>Valerie Grossman</a>, <a>Enrique Martinez-Garcia</a>, and <a>Luis B. Torres.</a><br/>
   2017, Tierra Grande, No. 2178.<br/><br/>
 
-- Entrepreneurs, Organizational Members, Political Participation and Preferential Treatment: Evidence from China.
-  with <a>Zhao Chen, <a>Alexander Newman, and <a>Wei Xu.</a><br/>
+- Entrepreneurs, Organizational Members, Political Participation and Preferential Treatment: Evidence from China.<br/> 
+  with <a>Zhao Chen</a>, <a>Alexander Newman</a>, and <a>Wei Xu.</a><br/>
   2014, International Small Business Journal, 32: 610-618.<br/><br/>
     
 
@@ -105,21 +105,20 @@ Notes-Monograph Series, Vol 33, pp 114-142
   <code>manuscript | slides</code> <br/>
   
 - Oil Price Shocks: Implication for Texas Land and Housing Markets.<br/>  
-  with <a>Valerie Grossman, <a>Enrique Martinez-Garcia, and <a>Luis Bernardo Torres.</a><br/>
+  with <a>Valerie Grossman</a>, <a>Enrique Martinez-Garcia</a>, and <a>Luis Bernardo Torres.</a><br/>
   
 ---
 
-###<a name="wip"></a>Work in Progress
+### <a name="wip"></a>Work in Progress
 
 - Land Supply Regulation, Household Saving Behavior and Labor Supply.<br/>
 
 - Manufacturing Industry Cluster Identification, Cluster Strength and Urban Growth: Evidence from China 1998-2008.<br/> 
-  with <a>Zhao Chen and <a>Jianfeng Wu.</a><br/>
+  with <a>Zhao Chen</a> and <a>Jianfeng Wu.</a><br/>
   
 - China’s Widening Inter-Industrial Inequality: Pattern, Explanation and Perspective.<br/> 
-  with <a>Zhao Chen and <a>Ming Lu.</a><br/><br/>
+  with <a>Zhao Chen</a> and <a>Ming Lu.</a><br/><br/>
     
- ---
  
  
 
