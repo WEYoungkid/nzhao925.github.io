@@ -8,16 +8,16 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : <font color="black">Naibao Zhao</font>
+title : <font color="black">Yongzhi Sun</font>
 
 author : 
-  name : Naibao Zhao
+  name : Yongzhi Sun
 #  email : kbroman@gmail.com
 #  github : kbroman
 #  twitter : kwbroman
 #  feedburner : nil
 
-production_url : http://nzhao925.github.io
+production_url : http://weyoungkid.github.io
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
