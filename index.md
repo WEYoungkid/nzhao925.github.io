@@ -7,8 +7,8 @@ description: Associate Professor of Economics at Research Institute of Economics
         <div class="span4">
             <br/><br/><img style="float: left; border-radius:50%" src="../assets/pics/ys1.jpeg">
         </div>
-       <!-- <div class="span1">
-        </div> -->
+        <div class="span1">
+        </div>
         <div class="span6">
             <br/><br/><br/><p>Welcome to my homepage!<br/></p>
             <p>I am currently an associate professor of economics at <!-- <a href="http://econ.tamu.edu" target="_blank"> --> the Research Institute  of Economics and Management (RIEM), <!-- </a> at <a href="http://www.tamu.edu" target="_blank">  </a> --> Southwestern University of Finance and Economics (SWUFE) in Chengdu, China. <br/></p>
