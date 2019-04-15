@@ -4,7 +4,6 @@ title: Research
 tagline:
 description: labor economics, empirical IO, applied microeconomics.
 ---
-
 ### <a name="pub"></a>Publications
 
 #### in English
@@ -35,7 +34,7 @@ description: labor economics, empirical IO, applied microeconomics.
   <code>manuscript | slides</code> <br/>
   
 - Oil Price Shocks: Implication for Texas Land and Housing Markets.<br/>
-  with <a>Valerie Grossman</a>, <a>Enrique Martinez-Garcia</a>, and <a>Luis Bernardo Torres.</a><br/>
+  with <a>Valerie Grossman</a>, <a>Enrique Martinez-Garcia</a>, and <a>Luis Bernardo Torres.</a><br/><br/>
   
 ---
 
