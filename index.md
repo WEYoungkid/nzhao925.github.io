@@ -17,6 +17,6 @@ description: Associate Professor of Economics at Research Institute of Economics
            <div id="hide_email">
            <b>Email:<b/><code>yongzhisun[at]swufe.edu.cn</code><br/>
            </div>
-           <p><b>Email:<b/> 226 RIEM Building, Guanghua Campus, Southwestern University of Finance and Economics, Chengdu, China<br/></p>
+           <p><b>Office:<b/> 226 RIEM Building, Guanghua Campus, Southwestern University of Finance and Economics, Chengdu, China<br/></p>
         </div>
 </div>
