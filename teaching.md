@@ -6,10 +6,10 @@ description: microeconomics, econometrics, labor economics.
 ---
 ### <a name="instructor"></a> RIEM, SWUFE
 
-- Introduction to Econometrics (undergraduate level), Fall 2019.<br/>
+- Introduction to Econometrics (BA core), Fall 2019.<br/>
 <code>syllabus</code><br/>
 
-- Labor Economics (master's level), Fall 2018.<br/>
+- Labor Economics (MA core for International Students), Fall 2018.<br/>
 <code>syllabus</code><br/><br/>
 
 ---
