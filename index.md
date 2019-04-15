@@ -1,6 +1,5 @@
 ---
 layout: frontpage
-title: About Me
 description: Associate Professor of Economics at Research Institute of Economics and Management (RIEM), Southwestern University of Finance and Economics (SWUFE).
 ---
 <div class="container-narrow">
