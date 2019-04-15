@@ -8,7 +8,6 @@ description: Associate Professor of Economics at Research Institute of Economics
             <br/><br/><img style="float: left; border-radius:50%" src="../assets/pics/ys1.jpeg">
         </div>
         <div class="span1">
-            <br/>
         </div>
         <div class="span7">
             <br/><br/><br/><p>Welcome to my homepage!<br/></p>
