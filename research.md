@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: Research
 tagline:
 description: labor economics, empirical IO, applied microeconomics.
 ---
@@ -77,76 +77,49 @@ Notes-Monograph Series, Vol 33, pp 114-142
 <!-- * 1 * -->
 ### <a name="pub"></a>Publications
 
+#### in English
+
+- Oil Change Fueling Housing and Land Prices? <br/>  
+  with <a>Valerie Grossman, <a>Enrique Martinez-Garcia, and <a>Luis B. Torres.</a><br/>
+  2017, Tierra Grande, No. 2178.<br/><br/>
+
+- Entrepreneurs, Organizational Members, Political Participation and Preferential Treatment: Evidence from China.
+  with <a>Zhao Chen, <a>Alexander Newman, and <a>Wei Xu.</a><br/>
+  2014, International Small Business Journal, 32: 610-618.<br/><br/>
+    
+
 #### in Chinese
 
 - 收入不平等、流动性约束与中国家庭储蓄率<br/> 
-  <code>甘犁、赵乃宝、孙永智</code><br/> 
-  <code>《经济研究》2018年第12期</code><br/><br/>
+  甘犁、赵乃宝、孙永智<br/> 
+  《经济研究》2018年第12期<br/><br/>
 
 
 ---
 
-### <a name="wp"></a>WorkingPapers
+### <a name="wp"></a>Working Papers
 
 
-- Uncertainty in Procurement Contracting with Incentives <br/> 
-  with <a href="http://wenzhenggao.weebly.com" target="_blank"> Wenzheng Gao</a> and <a href="http://daiqiangzhang.weebly.com" target="_blank"> Daiqiang Zhang</a><br/>
-  <code><a href="{{ BASE_PATH }}/research/Gao_Zhang_Zhao_2019_uncertainty.pdf">manuscript</a> | <a href="{{ BASE_PATH }}/research/uncertainty_slides.pdf">slides</a></code><br/>
-
-- Income Inequality, Liquidity Constraints, and China's Household Savings <br/> 
-  with <a href="http://people.tamu.edu/~ganli/" target="_blank"> Li Gan</a> and <a href="http://yongzhisun.weebly.com" target="_blank"> Yongzhi Sun</a><br/>
+- Income Inequality, Liquidity Constraints, and China's Household Savings.<br/> 
+  with <a href="http://people.tamu.edu/~ganli/" target="_blank"> Li Gan</a> and <a href="http://nzhao925.github.io" target="_blank"> Naibao Zhao</a><br/>
   <code>manuscript | slides</code> <br/>
   
-- Private Experimentation and Persuasion <br/> 
-  with <a href="http://www.fuwentao.com" target="_blank"> Wentao Fu</a> and <a> Meng Sun</a><br/>
-  <code>manuscript | slides</code> <br/>
-  
-- The Role of Lead Investors in Fundraising Performance of Equity Crowdfunding: Evidence from China <br/> 
-  with <a href="http://gs.swufe.edu.cn/home/school/teacher/info?programaid=29&tid=384" target="_blank"> Tao Shen</a> and <a> Fan Fan </a><br/>
-  <code>manuscript | slides</code> <br/><br/>
+- Oil Price Shocks: Implication for Texas Land and Housing Markets.<br/>  
+  with <a>Valerie Grossman, <a>Enrique Martinez-Garcia, and <a>Luis Bernardo Torres.</a><br/>
   
 ---
-<!-- - Does the college admission policy improve high school education in China's poor counties?<br/> 
-  (with Yongzhi Sun and Song Zhou)<br/><br/> 
-  
----
-
-<!-- **Broman KW** (2010) Genetic map construction with R/qtl.  Technical report #214, Department of Biostatistics & Medical Informatics, University of Wisconsin-Madison
-[![Abstract](icons16/pubmed-icon.png)](tech214_abstract.html)
-[![pdf (1.5M)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/tr_214.pdf) -->
-
-<!-- <a name="hmm"></a>**Broman KW** (2006) Use of hidden Markov models
-for QTL mapping.  Working paper 125, Department of Biostatistics,
-Johns Hopkins University, Baltimore, MD
-[![Abstract](icons16/pubmed-icon.png)](http://www.bepress.com/jhubiostat/paper125)
-[![pdf (94k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/hmm.pdf) -->
-
-<!-- <a name="ms0220"></a>Blades NJ, **Broman KW** (2002)
-Estimating the number of essential genes in a genome by random
-transposon mutagenesis.  Technical Report MS02-20, [Department of Biostatistics](http://www.biostat.jhsph.edu),
-Johns Hopkins University, Baltimore, MD
-[![Abstract](icons16/pubmed-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/ms0220_abstract.html)
-[![pdf (360k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/ms0220.pdf) -->
-
-<!-- Bowman KO, Shenton LR, Kastenbaum MA, **Broman K** (1992)
-Overdispersion: Notes on discrete distributions.  Technical Report
-ORNL/TM-12167, Oak Ridge National Laboratory
-[![Abstract](icons16/pubmed-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/ornl_abstract.html)
-[![pdf (388k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/ornl_techreport.pdf) -->
-
 
 ###<a name="wip"></a>Work in Progress
 
-- Parent-Child Interactions: Expectation and Reality - A Structural Model and Estimation.<br/> 
+- Land Supply Regulation, Household Saving Behavior and Labor Supply.<br/>
 
-- The Human Capital Formation of Left-Behind Children in China: A Structural Model and Estimation.<br/>
+- Manufacturing Industry Cluster Identification, Cluster Strength and Urban Growth: Evidence from China 1998-2008.<br/> 
+  with <a>Zhao Chen and <a>Jianfeng Wu.</a><br/>
+  
+- China’s Widening Inter-Industrial Inequality: Pattern, Explanation and Perspective.<br/> 
+  with <a>Zhao Chen and <a>Ming Lu.</a><br/><br/>
+    
+ ---
+ 
+ 
 
-<!-- Nonparametric identification and testing of bequest motives in the US.<br/>
-  (with Kang Wang)<br/>
-
-
-<!-- **Broman KW** (1997) Identifying quantitative trait loci in
-experimental crosses.  PhD dissertation, Department of Statistics,
-University of California, Berkeley
-[![Abstract](icons16/pubmed-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/thesis_abstract.html)
-[![pdf (653k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/thesis.pdf) -->
