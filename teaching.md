@@ -1,6 +1,6 @@
 ---
 layout: page
-title: teaching 
+title: Teaching 
 tagline: 
 description: microeconomics, econometrics, labor economics.
 ---
@@ -13,7 +13,8 @@ description: microeconomics, econometrics, labor economics.
 <code>syllabus</code><br/><br/>
 
 ---
-#### <a name="instructor"></a> Fudan University (as a recitation instructor)
+
+### <a name="instructor"></a> Fudan University (as a recitation instructor)
 
 - ECON 7216: Senior and Frontier Topics of China Economy (PhD core), 2013.<br/>
 
