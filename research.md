@@ -75,9 +75,9 @@ Notes-Monograph Series, Vol 33, pp 114-142
 [![pdf (249k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/qtlreview.pdf)
 [![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/gp/product/0940600471?ie=UTF8&tag=7210-20)
 <!-- * 1 * -->
-#### <a name="pub"></a>publications
+### <a name="pub"></a>Publications
 
-##### in Chinese
+#### in Chinese
 
 - 收入不平等、流动性约束与中国家庭储蓄率<br/> 
   <code>甘犁、赵乃宝、孙永智</code><br/> 
@@ -86,7 +86,7 @@ Notes-Monograph Series, Vol 33, pp 114-142
 
 ---
 
-#### <a name="wp"></a>working papers
+### <a name="wp"></a>WorkingPapers
 
 
 - Uncertainty in Procurement Contracting with Incentives <br/> 
@@ -135,7 +135,7 @@ ORNL/TM-12167, Oak Ridge National Laboratory
 [![pdf (388k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/ornl_techreport.pdf) -->
 
 
-#### <a name="wip"></a>work in progress
+###<a name="wip"></a>Work in Progress
 
 - Parent-Child Interactions: Expectation and Reality - A Structural Model and Estimation.<br/> 
 
