@@ -10,7 +10,7 @@ description: labor economics, empirical IO, applied microeconomics.
 
 
 - Entrepreneurs, Organizational Members, Political Participation and Preferential Treatment: Evidence from China.<br/> 
-  with <a>Zhao Chen</a>, <a>Alexander Newman</a>, and <a>Wei Xu.</a><br/>
+  with Zhao Chen, Alexander Newman, and Wei Xu<br/>
   2014, International Small Business Journal, 32: 610-618.<br/><br/>
     
 
@@ -31,7 +31,7 @@ description: labor economics, empirical IO, applied microeconomics.
   <code>manuscript | slides</code> <br/>
   
 - Oil Price Shocks: Implication for Texas Land and Housing Markets.<br/>
-  with <a>Valerie Grossman</a>, <a>Enrique Martinez-Garcia</a>, and <a>Luis Bernardo Torres.</a><br/><br/>
+  with Valerie Grossman, Enrique Martinez-Garcia, and Luis Bernardo Torres<br/><br/>
   
 ---
 
