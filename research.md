@@ -8,9 +8,6 @@ description: labor economics, empirical IO, applied microeconomics.
 
 #### in English
 
-- Oil Change Fueling Housing and Land Prices?<br/>
-  with <a>Valerie Grossman</a>, <a>Enrique Martinez-Garcia</a>, and <a>Luis B. Torres.</a><br/>
-  2017, Tierra Grande, No. 2178.<br/><br/>
 
 - Entrepreneurs, Organizational Members, Political Participation and Preferential Treatment: Evidence from China.<br/> 
   with <a>Zhao Chen</a>, <a>Alexander Newman</a>, and <a>Wei Xu.</a><br/>
