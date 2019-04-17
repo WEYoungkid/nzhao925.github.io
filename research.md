@@ -42,11 +42,11 @@ description: labor economics, empirical IO, applied microeconomics.
 
 - Land Supply Regulation, Household Saving Behavior and Labor Supply.<br/>
 
-- Manufacturing Industry Cluster Identification, Cluster Strength and Urban Growth: Evidence from China 1998-2008.<br/> 
-  with <a>Zhao Chen</a> and <a>Jianfeng Wu.</a><br/>
+- Parent-Child Interactions: Expectation and Reality - A Structural Model and Estimation.<br/> 
+  with <a href="http://nzhao925.github.io" target="_blank"> Naibao Zhao</a><br/>
   
-- China’s Widening Inter-Industrial Inequality: Pattern, Explanation and Perspective.<br/> 
-  with <a>Zhao Chen</a> and <a>Ming Lu.</a><br/><br/>
+- The Human Capital Formation of Left-Behind Children in China: A Structural Model and Estimation.<br/> 
+  with <a href="http://nzhao925.github.io" target="_blank"> Naibao Zhao</a><br/><br/> 
     
  
  
