@@ -5,7 +5,7 @@ description: Associate Professor of Economics at Research Institute of Economics
 <div class="container-narrow">
     <div class="row-fluid">
         <div class="span4">
-            <br/><br/><img style="float: left; border-radius:50%" src="../assets/pics/ys1.jpeg">
+            <br/><br/><img style="float: left; border-radius:50%" src="../assets/pics/ys.png">
         </div>
         <div class="span1">
         </div>
