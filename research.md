@@ -27,7 +27,7 @@ description: labor economics, empirical IO, applied microeconomics.
 
 
 - Income Inequality, Liquidity Constraints, and China's Household Savings.<br/> 
-  with <a href="http://people.tamu.edu/~ganli/" target="_blank"> Li Gan</a> and <a href="http://nzhao925.github.io" target="_blank"> Naibao Zhao</a><br/>
+  with <a href="http://people.tamu.edu/~ganli/" target="_blank"> Li Gan</a> and <a href="http://naibaozhao.com" target="_blank"> Naibao Zhao</a><br/>
   <code>manuscript | slides</code> <br/>
   
 - Oil Price Shocks: Implication for Texas Land and Housing Markets.<br/>
@@ -40,10 +40,10 @@ description: labor economics, empirical IO, applied microeconomics.
 - Land Supply Regulation, Household Saving Behavior and Labor Supply.<br/>
 
 - Parent-Child Interactions: Expectation and Reality - A Structural Model and Estimation.<br/> 
-  with <a href="http://nzhao925.github.io" target="_blank"> Naibao Zhao</a><br/>
+  with <a href="http://naibaozhao.com" target="_blank"> Naibao Zhao</a><br/>
   
 - The Human Capital Formation of Left-Behind Children in China: A Structural Model and Estimation.<br/> 
-  with <a href="http://nzhao925.github.io" target="_blank"> Naibao Zhao</a><br/><br/> 
+  with <a href="http://naibaozhao.com" target="_blank"> Naibao Zhao</a><br/><br/> 
     
  
  
