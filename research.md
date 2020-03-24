@@ -39,11 +39,6 @@ description: labor economics, empirical IO, applied microeconomics.
 
 - Land Supply Regulation, Household Saving Behavior and Labor Supply.<br/>
 
-- Parent-Child Interactions: Expectation and Reality - A Structural Model and Estimation.<br/> 
-  with <a href="http://naibaozhao.com" target="_blank"> Naibao Zhao</a><br/>
-  
-- The Human Capital Formation of Left-Behind Children in China: A Structural Model and Estimation.<br/> 
-  with <a href="http://naibaozhao.com" target="_blank"> Naibao Zhao</a><br/><br/> 
     
  
  
